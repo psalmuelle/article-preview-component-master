@@ -28,6 +28,9 @@ body {
   background: white;
   display: flex;
   flex-direction: row;
+  box-shadow: 4px 10px 7px -3px rgba(72,85,106,0.75);
+-webkit-box-shadow: 4px 10px 7px -3px rgba(72,85,106,0.75);
+-moz-box-shadow: 4px 10px 7px -3px rgba(72,85,106,0.75);
 }
 #drawer--image {
   height: 100%;
